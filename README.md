@@ -1,4 +1,4 @@
-# Mini Project - Data Science Dashboard 🚀
+# Project - Data Mining 🚀
 
 ![Dashboard Badge](https://img.shields.io/badge/Project-Dashboard-blue?style=for-the-badge&logo=python)
 
@@ -22,9 +22,21 @@ To run the project locally, make sure you have the following Python packages ins
 - matplotlib
 - seaborn
 
-You can install them via the following command:
-  ```bash
-  pip install -r requirements.txt
+## 🚀How to Run the Dashboard
+1. **Clone the repository to your local machine:**
+   ```bash
+   git clone https://github.com/your-repository-link.git
+
+2. **Navigate to the project directory:**
+   ```bash
+    cd project-directory
+
+3. **Run the Python script to launch the dashboard:**:
+   ```bash
+    python dashboard.py
+  
+This will start a local web server and open the dashboard in your browser. You can interact with the visualizations and explore the data!
+
 
 ## 🧑‍💻 Authors
 - **Muhammad Syahrul Bachtiar**
@@ -39,6 +51,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **User-Friendly Interface**: Designed for easy navigation and exploration.
 - **Real-World Applications**: Useful for visualizing job market trends and user behavior analysis.
 
-## 🎨 Preview of Dashboard:
-![Dashboard Preview](https://your-preview-image-link.com)
 
